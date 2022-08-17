@@ -1,0 +1,8 @@
+G:\Abhishek\UpperCaseExample\UpperCaseExample\bin\Debug\UpperCaseExample.exe.config
+G:\Abhishek\UpperCaseExample\UpperCaseExample\bin\Debug\UpperCaseExample.exe
+G:\Abhishek\UpperCaseExample\UpperCaseExample\bin\Debug\UpperCaseExample.pdb
+G:\Abhishek\UpperCaseExample\UpperCaseExample\obj\Debug\UpperCaseExample.csproj.AssemblyReference.cache
+G:\Abhishek\UpperCaseExample\UpperCaseExample\obj\Debug\UpperCaseExample.csproj.SuggestedBindingRedirects.cache
+G:\Abhishek\UpperCaseExample\UpperCaseExample\obj\Debug\UpperCaseExample.csproj.CoreCompileInputs.cache
+G:\Abhishek\UpperCaseExample\UpperCaseExample\obj\Debug\UpperCaseExample.exe
+G:\Abhishek\UpperCaseExample\UpperCaseExample\obj\Debug\UpperCaseExample.pdb
