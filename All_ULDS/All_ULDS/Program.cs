@@ -33,3 +33,4 @@ namespace All_ULDS
         }
     }
 }
+// Upper , Lower , Digit , Special 
